@@ -1,0 +1,8 @@
+a = set('tiger')
+b = set('bear')
+print(a)
+print(b)
+print(a | b)
+print(a & b)
+print(a - b)
+print(a ^ b)
