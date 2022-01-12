@@ -1,4 +1,6 @@
 # 資料結構：使用Python(黃建庭 2021/03/08  全華)範例程式碼
+<img src="https://github.com/jang0820/Data-Structure-Using-Python/blob/main/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E4%BD%BF%E7%94%A8Python.jpg?raw=true" alt="資料結構：使用Python(黃建庭 2021/03/08  全華)" width="200" height="250">
+
 單元內容
 * [Ch1資料結構的簡介](https://sites.google.com/view/zsgititit/home/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E4%BD%BF%E7%94%A8python/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E7%9A%84%E7%B0%A1%E4%BB%8B)
 * <a href="https://sites.google.com/view/zsgititit/home/python-cheng-shi-she-ji/python-zi-liao-chu-cun-rong-qituple-chuan-lie-zi-dian-ji-he" target="_blank">Ch2資料儲存容器(tuple-串列-字典-集合)</a>
